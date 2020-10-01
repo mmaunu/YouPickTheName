@@ -1,0 +1,4 @@
+.:
+fileList.txt
+myFile.txt
+trLSRNoStar.txt

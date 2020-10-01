@@ -1,0 +1,65 @@
+animationJS/
+AP Classroom.html
+AP Classroom_files/
+AP Exam Day Session Slides Screenshots.docx
+APClassroomLogo.png
+ap-computer-science-a-course-and-exam-description.pdf
+ap-student-exam-day-checklist.pdf
+ap-testing-guide-2020.pdf
+ASCIITable.png
+CLITopic.png
+Cool.pdn
+CopyOfCopy.png
+DBlockDrawing.foo
+Deep-Breathing-Relax.gif
+desktop.ini
+Directions How To Upload Project and Share.docx
+dora.png
+dora2.gif
+eBeam Tool Palette.lnk*
+Eclipse IDE for Java Developers - 2019-12.lnk*
+EDIT TwoInputPerceptronCode/
+FBlock.blah
+forest.jpg
+gameOn.png
+GBlockDrawing.blah
+getSelectedText.html
+gitTesting/
+greenCheck.png
+Hailstone FRQ Canonical Solution.pdf
+Hailstone FRQ Problem.pdf
+HelloWorld.png
+HelloWorld2.png
+images/
+javaProjects/
+Lancer.png
+lessons/
+Main.class
+Main.java
+mithrandirVBalrog.jpg
+Number Tile FRQ Problem.docx
+Number Tile FRQ Solution.docx
+oldSchool/
+Peach.png
+peppa.png
+pew-pew.mp3
+planning thoughts.txt
+Processing_3_logo.png
+pythonTesting/
+question-mark-2405202_960_720.webp
+Questions PARKER ONLINE 2020.txt
+Quick Notes for Parker Online Startup .txt
+rock.png
+school/
+shakespearesSonnets.txt
+shrek.png
+shruggie.txt
+ShuffleboardCustomWidgetTemplate/
+Six-Home-Learning-Programs-for-Parents.pdf
+sorted.txt
+tempo/
+The Most Complete Starter Kit for UNO V1.0.19.09.18.pdf
+trash.txt
+tree.gif
+unsorted.txt
+Zoom.lnk*
